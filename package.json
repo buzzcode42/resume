@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "0.0.0",
+  "description": "Fernando dos Santos's resume",
+  "main": "index.js",
+  "keywords": [
+    "resume"
+  ],
+  "author": "Fernando dos Santos",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.7",
+    "vite": "^2.7.2"
+  }
+}

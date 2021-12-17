@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.circle {
+  background-image: url('../../assets/images/fernando.jpeg'), url('../../assets/images/bg.png');
+  background-repeat: no-repeat;
+  background-size: contain contain;
+  background-position: center center;
+}
